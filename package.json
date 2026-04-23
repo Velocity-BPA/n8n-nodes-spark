@@ -2,7 +2,7 @@
   "name": "n8n-nodes-spark",
   "version": "1.0.0",
   "description": "A comprehensive n8n community node for Spark Protocol (SparkLend) providing 22 resources and 200+ operations for DeFi lending, borrowing, collateral management, flash loans, and sDAI integration on Ethereum and Gnosis.",
-  "license": "BUSL-1.1",
+  "license": "SEE LICENSE IN LICENSE.md",
   "author": {
     "name": "Velocity BPA",
     "email": "licensing@velobpa.com",
@@ -82,7 +82,7 @@
     "eslint-plugin-n8n-nodes-base": "^1.16.1",
     "gulp": "^4.0.2",
     "jest": "^29.7.0",
-    "n8n-workflow": "^1.22.0",
+    "n8n-workflow": "1.57.0",
     "prettier": "^3.1.1",
     "rimraf": "^5.0.5",
     "ts-jest": "^29.1.1",
